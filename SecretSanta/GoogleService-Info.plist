@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>648933981904-ev728j3da0kbnd3depo1gnnfjsqncd4m.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.648933981904-ev728j3da0kbnd3depo1gnnfjsqncd4m</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDxX5OkmOih8Hnw8OpNHr_H1ZM81OGZ1ME</string>
+	<key>GCM_SENDER_ID</key>
+	<string>648933981904</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>c.SecretSanta</string>
+	<key>PROJECT_ID</key>
+	<string>secretsanta-14c86</string>
+	<key>STORAGE_BUCKET</key>
+	<string>secretsanta-14c86.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:648933981904:ios:8325f198a1d59d97</string>
+	<key>DATABASE_URL</key>
+	<string>https://secretsanta-14c86.firebaseio.com</string>
+</dict>
+</plist>
